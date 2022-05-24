@@ -1,0 +1,76 @@
+[1;31mType:[0m            CachedMethodCallerNoArgs
+[1;31mString form:[0m     Cached version of <method 'is_irreducible' of 'sage.rings.polynomial.polynomial_gf2x.Polynomial_GF2X' objects>
+[1;31mFile:[0m            ~/Apps/sage-9.5/local/var/lib/sage/venv-python3.9/lib/python3.9/site-packages/sage/rings/polynomial/polynomial_gf2x.pyx
+[1;31mDocstring:[0m      
+   Return whether this polynomial is irreducible over \GF{2}.`
+
+   EXAMPLES:
+
+      sage: R.<x> = GF(2)[]
+      sage: (x^2 + 1).is_irreducible()
+      False
+      sage: (x^3 + x + 1).is_irreducible()
+      True
+
+   Test that caching works:
+
+      sage: R.<x> = GF(2)[]
+      sage: f = x^2 + 1
+      sage: f.is_irreducible()
+      False
+      sage: f.is_irreducible.cache
+      False
+[1;31mClass docstring:[0m
+   Utility class that is used by "CachedMethod" to bind a cached
+   method to an instance, in the case of a method that does not accept
+   any arguments except "self".
+
+   Note:
+
+     The return value "None" would not be cached. So, if you have a
+     method that does not accept arguments and may return "None" after
+     a lengthy computation, then "@cached_method" should not be used.
+
+   EXAMPLES:
+
+      sage: P.<a,b,c,d> = QQ[]
+      sage: I = P*[a,b]
+      sage: I.gens
+      Cached version of <function ...gens at 0x...>
+      sage: type(I.gens)
+      <class 'sage.misc.cachefunc.CachedMethodCallerNoArgs'>
+      sage: I.gens is I.gens
+      True
+      sage: I.gens() is I.gens()
+      True
+
+   AUTHOR:
+
+   * Simon King (2011-04)
+[1;31mInit docstring:[0m 
+   EXAMPLES:
+
+      sage: class Foo:
+      ....:     def __init__(self, x):
+      ....:         self._x = x
+      ....:     @cached_method
+      ....:     def f(self):
+      ....:         return self._x^2
+      sage: a = Foo(2)
+      sage: print(a.f.cache)
+      None
+      sage: a.f()
+      4
+      sage: a.f.cache
+      4
+[1;31mCall docstring:[0m 
+   Call the cached method.
+
+   EXAMPLES:
+
+      sage: P.<a,b,c,d> = QQ[]
+      sage: I = P*[a,b]
+      sage: I.gens()    # indirect doctest
+      [a, b]
+      sage: I.gens() is I.gens()
+      True

@@ -1,0 +1,1414 @@
+2022.03.16 21:28:47 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.16 21:28:47 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.16 21:28:47 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.16 21:28:47 INFO  Parse release: 11.0.14[0m
+2022.03.16 21:28:49 INFO  time: initialize in 2.2s[0m
+2022.03.16 21:28:50 WARN  Build server is not auto-connectable.[0m
+2022.03.16 21:28:50 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.16 21:28:51 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:28:54 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/fibonacci.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+Mar 16, 2022 9:28:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Mar 16, 2022 9:28:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2022.03.16 21:28:56 INFO  time: code lens generation in 1.01s[0m
+2022.03.16 21:29:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:29:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:29:26 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:30:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:30:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:30:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:34:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:35:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:52:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:53:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:57:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 21:57:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:01:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:02:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:03:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:03:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:03:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:04:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:04:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+Mar 16, 2022 10:05:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1342
+2022.03.16 22:05:26 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:05:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+Mar 16, 2022 10:05:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1398
+2022.03.16 22:05:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:06:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:06:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:06:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+Mar 16, 2022 10:07:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+2022.03.16 22:09:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:09:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:10:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:10:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:10:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:10:42 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:10:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:11:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:12:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:12:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:12:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:13:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:13:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:13:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:37:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:46:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:53:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 22:54:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:54:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.16 22:55:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+Mar 16, 2022 10:56:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2745
+Mar 16, 2022 10:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2891
+2022.03.16 22:59:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:00:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:00:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:01:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:01:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3264
+2022.03.16 23:02:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:02:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:02:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:03:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:03:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:03:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:04:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:04:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:04:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:05:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3793
+2022.03.16 23:05:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:07:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:07:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:08:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:08:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.internal$206(Trees.scala:283)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:282)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$1(ScalametaParser.scala:2502)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern1(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2438)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$patterns$1(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns$(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.patterns(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser.seqPatterns(ScalametaParser.scala:2706)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$argumentPatterns$1(ScalametaParser.scala:2711)
+	at scala.meta.internal.parsers.ScalametaParser.inParens(ScalametaParser.scala:204)
+	at scala.meta.internal.parsers.ScalametaParser.argumentPatterns(ScalametaParser.scala:2710)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$simplePattern$2(ScalametaParser.scala:2631)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern(ScalametaParser.scala:2595)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern$(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.simplePattern(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3(ScalametaParser.scala:2545)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3$(ScalametaParser.scala:2543)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern3(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern2$1(ScalametaParser.scala:2511)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2$(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern2(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$2(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3291)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3255)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4270)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4297)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2282)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$2(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2281)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2278)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2089)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:308)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:318)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2060)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2058)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2042)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2018)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1587)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1476)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1356)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1384)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3547)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3484)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3421)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3261)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3240)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4225)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4219)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4235)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4050)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4031)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3754)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3746)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3623)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3607)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4175)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4163)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4391)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4350)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:126)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:119)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:292)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Mar 16, 2022 11:08:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.internal$206(Trees.scala:283)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:282)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$1(ScalametaParser.scala:2502)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern1(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2438)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$patterns$1(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns$(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.patterns(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser.seqPatterns(ScalametaParser.scala:2706)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$argumentPatterns$1(ScalametaParser.scala:2711)
+	at scala.meta.internal.parsers.ScalametaParser.inParens(ScalametaParser.scala:204)
+	at scala.meta.internal.parsers.ScalametaParser.argumentPatterns(ScalametaParser.scala:2710)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$simplePattern$2(ScalametaParser.scala:2631)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern(ScalametaParser.scala:2595)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern$(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.simplePattern(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3(ScalametaParser.scala:2545)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3$(ScalametaParser.scala:2543)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern3(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern2$1(ScalametaParser.scala:2511)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2$(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern2(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$2(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3291)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3255)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4270)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4297)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2282)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$2(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2281)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2278)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2089)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:308)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:318)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2060)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2058)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2042)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2018)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1587)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1476)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1356)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1384)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3547)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3484)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3421)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3261)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3240)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4225)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4219)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4235)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4050)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4031)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3754)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3746)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3623)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3607)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4175)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4163)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4391)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4350)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:126)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:119)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:292)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2022.03.16 23:09:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:09:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:13:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:13:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:16:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:16:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4811
+2022.03.16 23:16:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:16:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:16:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:17:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:18:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5006
+Mar 16, 2022 11:24:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5171
+2022.03.16 23:25:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:25:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 16, 2022 11:25:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.internal$206(Trees.scala:283)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:282)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$1(ScalametaParser.scala:2502)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern1(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2438)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.pattern(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$patterns$1(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns$(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$seqOK$.patterns(ScalametaParser.scala:2673)
+	at scala.meta.internal.parsers.ScalametaParser.seqPatterns(ScalametaParser.scala:2706)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$argumentPatterns$1(ScalametaParser.scala:2711)
+	at scala.meta.internal.parsers.ScalametaParser.inParens(ScalametaParser.scala:204)
+	at scala.meta.internal.parsers.ScalametaParser.argumentPatterns(ScalametaParser.scala:2710)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$simplePattern$2(ScalametaParser.scala:2631)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern(ScalametaParser.scala:2595)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern$(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.simplePattern(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3(ScalametaParser.scala:2545)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3$(ScalametaParser.scala:2543)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern3(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern2$1(ScalametaParser.scala:2511)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2$(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern2(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$2(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3291)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3255)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4270)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4297)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2282)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$2(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2281)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2278)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2089)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:308)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:318)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2060)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2058)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2042)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2018)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1587)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1476)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1356)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1384)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3547)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3484)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3421)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3261)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3240)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4225)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4219)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4235)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4050)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4031)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3754)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3746)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3623)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3607)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4175)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4163)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4391)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4350)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:126)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:119)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:292)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+Mar 16, 2022 11:25:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Var](Type.this.Var.ClassifierClass[scala.meta.Type]).`unary_!`.&&(scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!`)
+found that scala.meta.classifiers.`package`.XtensionClassifiable[scala.meta.Type](rhs)(scala.meta.Tree.classifiable[scala.meta.Type]).is[Type.Placeholder](Type.this.Placeholder.ClassifierClass[scala.meta.Type]).`unary_!` is true
+where Type = scala.meta.Type$@418bd1de
+where rhs = _
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Pat$Typed$.internal$206(Trees.scala:283)
+	at scala.meta.Pat$Typed$.apply(Trees.scala:282)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern1$1(ScalametaParser.scala:2502)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern1$(ScalametaParser.scala:2474)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern1(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern(ScalametaParser.scala:2438)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern$(ScalametaParser.scala:2432)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$patterns$1(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.patterns$(ScalametaParser.scala:2430)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.patterns(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$simplePattern$5(ScalametaParser.scala:2653)
+	at scala.meta.internal.parsers.ScalametaParser.inParens(ScalametaParser.scala:204)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$simplePattern$2(ScalametaParser.scala:2653)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern(ScalametaParser.scala:2595)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.simplePattern$(ScalametaParser.scala:2594)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.simplePattern(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.loop$7(ScalametaParser.scala:2558)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3(ScalametaParser.scala:2564)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern3$(ScalametaParser.scala:2543)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern3(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.$anonfun$pattern2$1(ScalametaParser.scala:2511)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$SeqContextSensitive.pattern2$(ScalametaParser.scala:2510)
+	at scala.meta.internal.parsers.ScalametaParser$noSeq$.pattern2(ScalametaParser.scala:2678)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$2(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.partOrEllipsis$1(ScalametaParser.scala:580)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:583)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparated(ScalametaParser.scala:592)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$patDefOrDcl$1(ScalametaParser.scala:3297)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.patDefOrDcl(ScalametaParser.scala:3291)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3255)
+	at scala.meta.internal.parsers.ScalametaParser.localDef(ScalametaParser.scala:4270)
+	at scala.meta.internal.parsers.ScalametaParser.blockStatSeq(ScalametaParser.scala:4297)
+	at scala.meta.internal.parsers.ScalametaParser.blockWithStats$1(ScalametaParser.scala:2282)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$2(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$block$1(ScalametaParser.scala:2284)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.block(ScalametaParser.scala:2281)
+	at scala.meta.internal.parsers.ScalametaParser.blockExpr(ScalametaParser.scala:2278)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$simpleExpr0$1(ScalametaParser.scala:2089)
+	at scala.meta.internal.parsers.ScalametaParser.atPosTry(ScalametaParser.scala:308)
+	at scala.meta.internal.parsers.ScalametaParser.autoPosTry(ScalametaParser.scala:318)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr0(ScalametaParser.scala:2060)
+	at scala.meta.internal.parsers.ScalametaParser.simpleExpr(ScalametaParser.scala:2058)
+	at scala.meta.internal.parsers.ScalametaParser.prefixExpr(ScalametaParser.scala:2042)
+	at scala.meta.internal.parsers.ScalametaParser.postfixExpr(ScalametaParser.scala:2018)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$expr$2(ScalametaParser.scala:1587)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1476)
+	at scala.meta.internal.parsers.ScalametaParser.expr(ScalametaParser.scala:1356)
+	at scala.meta.internal.parsers.ScalametaParser.exprMaybeIndented(ScalametaParser.scala:1384)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3547)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3484)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3421)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3261)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3240)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4225)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1$1.applyOrElse(ScalametaParser.scala:4219)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4235)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4211)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOr(ScalametaParser.scala:216)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:211)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4042)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4050)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4031)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4005)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:3754)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:313)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:315)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3746)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3623)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3607)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4175)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4163)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4154)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4391)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4350)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:270)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:311)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4343)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4348)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:132)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:129)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:56)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:51)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:129)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:36)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:126)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:119)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:91)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$parseTreesAndPublishDiags$2(MetalsLanguageServer.scala:292)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+2022.03.16 23:26:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:45:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:45:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:47:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:47:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:47:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:48:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:48:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:49:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:49:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:51:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:52:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:52:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:52:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:54:51 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:54:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:55:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:56:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.16 23:59:20 INFO  shutting down Metals[0m
+2022.03.17 08:58:07 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.17 08:58:07 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.17 08:58:07 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.17 08:58:07 INFO  Parse release: 11.0.14[0m
+2022.03.17 08:58:10 INFO  time: initialize in 2.51s[0m
+2022.03.17 08:58:10 WARN  Build server is not auto-connectable.[0m
+2022.03.17 08:58:10 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.17 08:58:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 08:58:15 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.17 08:58:17 INFO  time: code lens generation in 4.23s[0m
+2022.03.17 09:50:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:50:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:50:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:51:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:53:26 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:56:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:56:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 17, 2022 9:57:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 384
+2022.03.17 09:57:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:57:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:57:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 09:58:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 17, 2022 10:02:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 434
+2022.03.17 10:02:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:03:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:03:42 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:03:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:04:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:04:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+Mar 17, 2022 10:04:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 642
+2022.03.17 10:05:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:06:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:18:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:19:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:20:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:20:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:23:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:25:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:26:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:31:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:34:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:34:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:34:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:34:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:34:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:35:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:35:22 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:37:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 10:37:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1293
+2022.03.17 10:37:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:38:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:38:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:38:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:39:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:39:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:39:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:42:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:43:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 10:43:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2023
+2022.03.17 10:43:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:45:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:47:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:50:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:50:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:50:50 INFO  shutting down Metals[0m
+2022.03.17 10:51:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.17 10:51:18 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.17 10:51:18 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.17 10:51:18 INFO  Parse release: 11.0.14[0m
+2022.03.17 10:51:21 INFO  time: initialize in 2.5s[0m
+2022.03.17 10:51:21 WARN  Build server is not auto-connectable.[0m
+2022.03.17 10:51:21 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.17 10:51:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:51:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:51:25 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.17 10:51:28 INFO  time: code lens generation in 1.39s[0m
+2022.03.17 10:51:28 INFO  time: code lens generation in 4.41s[0m
+2022.03.17 10:52:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:52:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:53:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 10:53:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 10:53:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:54:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:55:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.17 10:56:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 10:57:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 10:57:22 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 10:57:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 313
+2022.03.17 10:58:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 11:44:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 11:44:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 11:44:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:44:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:45:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:45:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:45:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:46:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:46:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 17, 2022 11:52:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+2022.03.17 11:52:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:53:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:53:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:53:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:53:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:54:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:56:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 11:58:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:00:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:01:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:01:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:01:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:05:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:05:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:06:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:06:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:07:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:08:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:08:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 12:08:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:08:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:08:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:09:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 17, 2022 12:11:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2179
+2022.03.17 12:11:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:12:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:12:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 17, 2022 12:13:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2519
+2022.03.17 12:13:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:13:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:14:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:15:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:16:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 12:16:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:17:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2747
+2022.03.17 12:17:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:19:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.17 12:20:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:37:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:37:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3104
+2022.03.17 12:37:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:37:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:37:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:44:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3530
+2022.03.17 12:48:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:48:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:48:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:50:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:50:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:50:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:50:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:50:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3837
+2022.03.17 12:51:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:52:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4023
+2022.03.17 12:52:26 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:52:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:53:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:53:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:53:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:53:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 12:54:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4396
+2022.03.17 12:54:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:54:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:54:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:55:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:55:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:57:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:58:51 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 12:59:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:00:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:00:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:01:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:01:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:01:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:02:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:03:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:03:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:04:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:04:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:05:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:06:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:06:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:06:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:06:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:06:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:07:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:07:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:08:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:08:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:09:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:09:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:09:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:10:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:10:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:10:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:11:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:12:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:12:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:12:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:14:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:14:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:16:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:16:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:21:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:22:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:22:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:22:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:22:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:23:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:23:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:23:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:24:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:24:26 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:24:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:24:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:24:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:25:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:25:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:25:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+Mar 17, 2022 1:25:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7744
+2022.03.17 13:25:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:26:17 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:26:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:27:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:27:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+Mar 17, 2022 1:27:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7889
+2022.03.17 13:27:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:28:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:28:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:28:19 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala:41: error: [dialect scala213] ; expected but else found
+    } else println("no file")
+      ^[0m
+2022.03.17 13:28:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:28:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:28:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:29:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:30:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 13:30:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:30:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:31:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:32:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:35:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:35:34 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala:19: error: [dialect scala213] illegal start of simple expression
+    } else println("Arguments list is empty.")
+    ^[0m
+2022.03.17 13:35:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:36:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:36:26 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala:23: error: [dialect scala213] => expected but } found
+        }
+        ^[0m
+2022.03.17 13:36:26 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala:23: error: [dialect scala213] => expected but } found
+        }
+        ^[0m
+2022.03.17 13:36:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:36:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:36:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:37:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:38:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+Mar 17, 2022 1:39:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8919
+2022.03.17 13:39:17 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:39:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:40:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:40:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:40:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:41:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:46:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:47:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:47:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:48:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:48:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:48:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:53:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:53:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 13:56:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:01:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:01:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:01:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:02:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:03:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:06:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:08:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:08:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+Mar 17, 2022 2:08:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10033
+2022.03.17 14:08:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:08:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:08:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+Mar 17, 2022 2:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10225
+2022.03.17 14:09:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+Mar 17, 2022 2:10:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10365
+2022.03.17 14:11:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:11:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:11:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:11:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:11:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:12:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:12:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:12:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:13:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:14:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:14:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:16:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:17:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:17:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:18:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:21:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:28:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:28:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:28:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:29:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:29:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:30:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:35:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:36:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:37:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:39:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:40:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:51:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:51:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:51:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:53:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 14:55:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 15:01:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:01:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:01:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:02:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:02:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:02:17 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/compareWords.scala:53: error: [dialect scala213] } expected but end of file found
+
+^[0m
+2022.03.17 15:02:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:06 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/compareWords.scala:53: error: [dialect scala213] } expected but end of file found
+
+^[0m
+2022.03.17 15:03:08 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/compareWords.scala:53: error: [dialect scala213] } expected but end of file found
+
+^[0m
+2022.03.17 15:03:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:19 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/compareWords.scala:53: error: [dialect scala213] } expected but end of file found
+
+^[0m
+2022.03.17 15:03:21 ERROR scalafmt: /home/jakubp/Code/Studies/sp/list4/compareWords.scala:53: error: [dialect scala213] } expected but end of file found
+
+^[0m
+2022.03.17 15:03:22 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:03:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:05:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 15:12:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 15:13:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 15:13:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.17 15:14:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 16:53:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 16:54:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 16:54:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.17 16:54:24 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+Mar 17, 2022 5:17:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13200
+2022.03.17 17:18:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:18:17 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:18:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+Mar 17, 2022 5:19:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13616
+Mar 17, 2022 5:19:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13618
+2022.03.17 17:19:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:19:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:19:51 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:20:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:20:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:24:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:24:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:27:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:27:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:29:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 17:34:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:34:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:34:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:34:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:35:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:36:03 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 17:36:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:07:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:07:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:08:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:08:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:09:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:10:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:10:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:10:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:10:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:11:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:12:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:13:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 18:13:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 18:15:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 18:19:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 18:19:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 18:20:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 18:24:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:24:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:26:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:27:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:27:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:28:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:28:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:28:39 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:08 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:29:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:32:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:34:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:34:42 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:38:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:50:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:50:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 18:51:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:00:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:01:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:02:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:03:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:03:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:03:51 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:04:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:04:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:05:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:05:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 19:05:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:40:27 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:40:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:41:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:41:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:42:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:42:22 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:42:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:42:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:46:30 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:46:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:50:19 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:50:28 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:50:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:51:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:51:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:52:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:52:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:52:57 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:53:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:53:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:54:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:54:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:57:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:57:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:59:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:59:09 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:59:41 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 20:59:50 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:00:25 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+Mar 17, 2022 9:01:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19115
+2022.03.17 21:02:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:03:20 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:03:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:03:44 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:13:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:16:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:16:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 21:17:00 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+Mar 17, 2022 9:20:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19949
+2022.03.17 22:03:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:09:12 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:09:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:09:54 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:10:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:10:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:10:01 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:10:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:33:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:41:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:41:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:43:21 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:43:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:44:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:47:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:47:35 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:47:58 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:48:38 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:51:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 22:54:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.17 22:54:45 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 22:57:29 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 23:06:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 23:34:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.17 23:37:37 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.17 23:37:47 INFO  shutting down Metals[0m
+2022.03.18 15:00:06 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.18 15:00:06 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.18 15:00:06 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.18 15:00:06 INFO  Parse release: 11.0.14[0m
+2022.03.18 15:00:09 INFO  time: initialize in 2.61s[0m
+2022.03.18 15:00:09 WARN  Build server is not auto-connectable.[0m
+2022.03.18 15:00:09 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.18 15:00:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 15:00:11 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+Mar 18, 2022 3:00:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2022.03.18 15:00:14 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.18 15:00:17 INFO  time: code lens generation in 4.98s[0m
+2022.03.18 15:00:17 INFO  time: code lens generation in 5.49s[0m
+2022.03.18 15:00:53 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.18 15:01:05 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers.scala[0m
+2022.03.18 15:01:14 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.18 15:23:18 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.18 15:23:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.18 15:24:15 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.18 15:24:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 18, 2022 3:25:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 217
+2022.03.18 15:26:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.18 15:28:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.18 15:28:34 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.18 15:30:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.18 15:31:46 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.18 15:32:43 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.18 15:33:02 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.18 15:33:04 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.18 15:34:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.18 15:34:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.18 15:34:56 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 15:34:59 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+Mar 18, 2022 3:41:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 583
+Mar 18, 2022 3:41:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 724
+2022.03.18 15:43:13 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 15:43:40 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+Mar 18, 2022 3:44:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1047
+2022.03.18 15:44:33 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 15:44:52 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 15:52:55 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.18 15:53:32 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+2022.03.18 15:54:49 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/distinctWords.scala[0m
+2022.03.18 15:55:48 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/frequentWords.scala[0m
+2022.03.18 15:56:23 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/compareWords.scala[0m
+2022.03.18 15:57:16 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.18 16:02:45 INFO  shutting down Metals[0m
+2022.03.22 13:19:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.22 13:19:02 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.22 13:19:02 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.22 13:19:02 INFO  Parse release: 11.0.14[0m
+2022.03.22 13:19:04 INFO  time: initialize in 2.28s[0m
+2022.03.22 13:19:04 WARN  Build server is not auto-connectable.[0m
+2022.03.22 13:19:04 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.22 13:19:06 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+2022.03.22 13:19:10 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.22 13:19:12 INFO  time: code lens generation in 5.47s[0m
+2022.03.22 13:22:31 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.22 13:22:36 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/fibonacci.scala[0m
+2022.03.22 13:22:47 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 22, 2022 1:25:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:25:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:25:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:31:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:31:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:31:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:31:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:31:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 1:32:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.03.22 13:32:21 INFO  shutting down Metals[0m
+2022.03.22 14:17:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jakubp/Code/Studies/sp/list4/.metals/lsp.trace.json or /home/jakubp/.cache/metals/lsp.trace.json[0m
+2022.03.22 14:17:03 INFO  logging to file /home/jakubp/Code/Studies/sp/list4/.metals/metals.log[0m
+2022.03.22 14:17:03 INFO  Started: Metals version 0.11.2 in workspace '/home/jakubp/Code/Studies/sp/list4' for client Visual Studio Code 1.65.2.[0m
+2022.03.22 14:17:03 INFO  Parse release: 11.0.14[0m
+2022.03.22 14:17:05 INFO  time: initialize in 2.26s[0m
+2022.03.22 14:17:05 WARN  Build server is not auto-connectable.[0m
+2022.03.22 14:17:05 WARN  no build tool detected in workspace '/home/jakubp/Code/Studies/sp/list4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.22 14:17:07 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala[0m
+Mar 22, 2022 2:17:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Mar 22, 2022 2:17:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.03.22 14:17:10 INFO  no build target found for /home/jakubp/Code/Studies/sp/list4/amicableNumbers2.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.22 14:17:10 WARN  no build target for: /home/jakubp/Code/Studies/sp/list4/codonFrequency.scala[0m
+Mar 22, 2022 2:17:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Mar 22, 2022 2:17:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2022.03.22 14:17:12 INFO  time: code lens generation in 2.1s[0m
+2022.03.22 14:17:12 INFO  time: code lens generation in 4.43s[0m
+2022.03.22 14:17:12 INFO  time: code lens generation in 2.08s[0m
+Mar 22, 2022 2:17:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 2:17:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 2:24:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 2:24:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 2:24:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 22, 2022 2:25:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.03.22 14:46:28 INFO  shutting down Metals[0m
