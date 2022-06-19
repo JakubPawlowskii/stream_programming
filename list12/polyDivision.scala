@@ -1,4 +1,3 @@
-import scala.sys.process.processInternal
 object polyDivision{
     import scala.math.pow
     import polynomialGF2.polynomialGF2._

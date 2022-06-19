@@ -5,17 +5,16 @@ package polynomialGF2 {
   object polynomialGF2 {
     def polynomialGF2(coeffs: String) = new polynomialGF2(coeffs)
     def polynomialGF2(rep: BigInt) = {
-    assert(rep >= 0)
-    new polynomialGF2(rep)
+      assert(rep >= 0)
+      new polynomialGF2(rep)
     }
   }
 
-  class polynomialGF2(coeffs: String) {
+  class polynomialGF2(val rep: BigInt) {
+    def this(coeffs: String) = this(BigInt(coeffs,2))
 
-    def this(intRep: BigInt) = this(intRep.toString(2))
-
-    val rep = BigInt(coeffs, 2)
-    val degree = coeffs.length - 1
+    val coeffs = rep.toString(2)
+    val degree = rep.bitLength - 1
     lazy val listOfCoeffs = coeffs.reverse.split("").map(s => s.toInt)
 
     override def toString = {
@@ -44,6 +43,32 @@ package polynomialGF2 {
     }
 
     def +(that: polynomialGF2) = new polynomialGF2(rep ^ that.rep)
+
+    def **(that: polynomialGF2) = {
+
+      def mult(a: BigInt, b: BigInt): BigInt = {  
+        if (a * b == 0) 0
+        else if (a == 1) b
+        else if (b == 1) a
+        else (mult(a >> 1, b) << 1) ^ (a % 2 * b)
+      }
+      new polynomialGF2(mult(this.rep, that.rep))
+    }
+
+    def ***(that: polynomialGF2) = {
+      if(this.rep * that.rep == 0) new polynomialGF2(0)
+      else if (this.rep == 1) that
+      else if (that.rep == 1) this
+      else{
+        @tailrec
+        def mult(a: BigInt, b: BigInt, res: BigInt): BigInt = {
+            if (a == 0) res
+            else mult(a.flipBit(a.lowestSetBit), b, res ^ (b << a.lowestSetBit))
+        }
+        new polynomialGF2( mult(this.rep, that.rep, BigInt(0)) )
+      }
+    }
+
     def *(that: polynomialGF2) = {
       var res = BigInt(0)
       var thisRep = rep
@@ -70,7 +95,10 @@ package polynomialGF2 {
           val deg_num = n.bitLength - 1
           if (deg_den > deg_num) (new polynomialGF2(q), new polynomialGF2(n))
           else
-            division(n ^ (den << (deg_num - deg_den)), q ^ (BigInt(1) << (deg_num - deg_den)))
+            division(
+              n ^ (den << (deg_num - deg_den)),
+              q ^ (BigInt(1) << (deg_num - deg_den))
+            )
         }
 
         division(this.rep, BigInt(0))
@@ -88,7 +116,8 @@ package polynomialGF2 {
     }
 
     def reciprocal(): polynomialGF2 = new polynomialGF2(this.coeffs.reverse)
-    def lcm(that: polynomialGF2): polynomialGF2 = ((this * that) % (gcd(that)))._1
+    def lcm(that: polynomialGF2): polynomialGF2 =
+      ((this * that) % (gcd(that)))._1
   }
 
 }
